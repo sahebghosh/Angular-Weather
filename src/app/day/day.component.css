@@ -1,0 +1,15 @@
+footer {
+    background-color: #40474e;
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+  }
+  
+.socket{
+        border:0;
+        margin:0;
+        width:100%;
+        height:2px;
+        background:yellow;
+}
+  
